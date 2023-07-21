@@ -1,0 +1,15 @@
+../Core/Src/main.c:65:6:UART_Gonder	1
+../Core/Src/main.c:69:6:UART_Alinan	1
+../Core/Src/main.c:73:6:paraYatir	1
+../Core/Src/main.c:80:6:paraCek	2
+../Core/Src/main.c:93:6:paraGonder	2
+../Core/Src/main.c:111:6:krediCekme	2
+../Core/Src/main.c:129:6:borcOdeme	2
+../Core/Src/main.c:147:6:dolarDoviz	2
+../Core/Src/main.c:166:6:euroDoviz	2
+../Core/Src/main.c:185:6:altinAlma	2
+../Core/Src/main.c:203:6:suFatura	2
+../Core/Src/main.c:221:6:dogalgazFatura	2
+../Core/Src/main.c:239:6:elektrikFatura	2
+../Core/Src/main.c:258:6:bakiyeGoster	1
+../Core/Src/main.c:274:5:main	16
